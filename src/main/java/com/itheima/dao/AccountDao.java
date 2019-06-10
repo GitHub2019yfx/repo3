@@ -1,5 +1,6 @@
 package com.itheima.dao;
 
+
 public interface AccountDao {
 
     public void out(String outMan, double money);
